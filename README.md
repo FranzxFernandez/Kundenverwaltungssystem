@@ -4,7 +4,7 @@ und zu verwalten:
 - Kundennummer
 - Name
 - Adresse
-Telefonnummer
+- Telefonnummer
 
 Das Kundenverwaltungssystem ist in C geschrieben und bietet eine benutzerfreundliche Kommandozeilenschnittstelle zur Verwaltung der Kundendaten. 
 Die Hauptfunktionen dieses Systems umfassen das Hinzufügen, Anzeigen, Suchen, Bearbeiten und Löschen von Kundendaten.
