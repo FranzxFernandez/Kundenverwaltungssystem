@@ -1,0 +1,17 @@
+[] Daten hinzufügen:
+   Fügen Sie eine Funktion hinzu, um neue Kundendaten zur Liste der Kunden hinzuzufügen.
+
+[] Daten anzeigen:
+   Implementieren Sie eine Funktion, um die Daten eines bestimmten Kunden oder aller Kunden anzuzeigen.
+
+[] Daten suchen:
+   Fügen Sie eine Funktion hinzu, um nach einem Kunden anhand der Kundennummer, des Namens oder anderer Kriterien zu suchen.
+
+[] Daten bearbeiten:
+   Implementieren Sie eine Funktion, um vorhandene Kundendaten zu ändern, z. B. Name, Adresse oder Telefonnummer.
+
+[] Daten löschen:
+   Fügen Sie eine Funktion hinzu, um Kundendaten aus der Liste zu entfernen.
+
+[] Daten speichern:
+   Implementieren Sie eine Funktion, um die Kundendaten in einer Datei zu speichern und bei Bedarf wiederherzustellen.
